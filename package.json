@@ -1,6 +1,6 @@
 {
-  "name": "wxbarcode",
-  "version": "1.0.2",
+  "name": "wxbarcode-with-color",
+  "version": "1.0.5",
   "description": "微信小程序条码、二维码生成模块",
   "main": "index.js",
   "scripts": {
